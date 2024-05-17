@@ -1,0 +1,16 @@
+CONFIG:
+  RELEASE: false
+  SERVERPORT: :8000
+
+  DATABASE:
+    HOST: 3.xxx.xxx.69
+    PORT: 3306
+    NAME: beer_lord
+    USERNAME: root
+    PASSWORD: xxxxxx
+
+  MONGO:
+    HOST: cluster0.xxxxx.mongodb.net
+    NAME: kg
+    USERNAME: root
+    PASSWORD: xxxxx
